@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "u3Zfb4Y12SjBbo3VP3Dqh9BDeFtACiSCdsENozGiG1w=",
+  "Source": "day1A.Server",
+  "BasePath": "_content/day1A.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\day1a.client.esproj",
+      "Version": 2,
+      "Source": "day1a.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
