@@ -1,0 +1,18 @@
+<p>home works!</p>
+
+<!--string interpolation-->
+<h1>Welcome, {{ username }}!</h1>
+
+<!--property binding-->
+<img [src]="imageUrl" alt="Dynamic Image">
+
+<!--event binding-->
+<button (click)="showMessage()"> Click Me</button>
+
+<!--Two-Way Data Binding-->
+
+<input [(ngModel)]="name" placeholder="Enter your name">
+
+<input [(ngModel)]="age" type="number" placeholder="Enter your age">
+
+<p> {{ name }} is {{age}} years old.</p>
