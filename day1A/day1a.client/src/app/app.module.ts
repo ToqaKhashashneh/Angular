@@ -30,7 +30,7 @@ import { ProductsComponent } from './products/products.component';
   ],
   imports: [
     BrowserModule, HttpClientModule,
-    AppRoutingModule, FormsModule,
+    AppRoutingModule, FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

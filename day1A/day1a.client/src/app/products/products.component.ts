@@ -2,7 +2,6 @@ import { Component } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { URLService } from '../Services/url.service';
 
-
 @Component({
   selector: 'app-products',
   standalone: false,
@@ -11,24 +10,22 @@ import { URLService } from '../Services/url.service';
 })
 export class ProductsComponent {
 
+  products: any[] = []; 
+  categoryId: string = ''; 
 
-  products: any[] = [];
-  categoryId: any;
-  constructor(private ser: URLService , private _active: ActivatedRoute) { }
+  constructor(private route: ActivatedRoute, private ser: URLService) { }
 
   ngOnInit() {
-    this.getData();
+
+    this.getProducts();
   }
 
-  getData() {
-    this.categoryId = this._active.snapshot.paramMap.get("id");
-
+  getProducts() {
+    this.categoryId = this.route.snapshot.paramMap.get('id') || '';
     this.ser.getProductsByCategoryID(this.categoryId).subscribe((data) => {
-
-      this.products = data.filter((p: any) => p.categoryID == this.categoryId)
-    })
-
-  }
-
-
+      this.products = data;
+    }); 
+      
+    }
+  
 }
