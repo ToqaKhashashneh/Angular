@@ -16,3 +16,35 @@
 <input [(ngModel)]="age" type="number" placeholder="Enter your age">
 
 <p> {{ name }} is {{age}} years old.</p>
+
+<!--Structural Directives
+ngIf else Directive-->
+<div *ngIf="false;else id_selector">
+  This text will be hidden
+  <h1 [ngStyle]="{'color':'Green'}">
+    This is Structural Directive
+    If Part
+  </h1>
+</div>
+<ng-template #id_selector>
+  This text will be displayed
+  <h1 [ngStyle]="{'color':'Blue'}">
+    This is Structural Directive
+    Else Part
+  </h1>
+</ng-template>
+
+<!--ngFor Directive-->
+<ul>
+  <li *ngFor="let user of users, let i = index">
+    {{ user.name }} - {{ user.email }} - {{ i }}
+  </li>
+</ul>
+
+<!--ngSwitch Directive-->
+<div [ngSwitch]="'Yousef'">
+  <div *ngSwitchCase="'Yousef'">Yousef shift starts at 8 :00 AM</div>
+  <div *ngSwitchCase="'Yamen'">Yamen shift starts at 6:00 PM</div>
+  <div *ngSwitchDefault>The Employee is not found'</div>
+</div>
+
