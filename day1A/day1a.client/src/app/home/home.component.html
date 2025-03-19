@@ -1,38 +1,41 @@
 <p>home works!</p>
 
 <!--string interpolation-->
-<h1>Welcome, {{ username }}!</h1>
-
+<!--<h1>Welcome, {{ username }}!</h1>-->
 <!--property binding-->
-<img [src]="imageUrl" alt="Dynamic Image">
-
+<!--<img [src]="imageUrl" alt="Dynamic Image">-->
 <!--event binding-->
-<button (click)="showMessage()"> Click Me</button>
-
+<!--<button (click)="showMessage()"> Click Me</button>-->
 <!--Two-Way Data Binding-->
-
-<input [(ngModel)]="name" placeholder="Enter your name">
+<!--<input [(ngModel)]="name" placeholder="Enter your name">
 
 <input [(ngModel)]="age" type="number" placeholder="Enter your age">
 
-<p> {{ name }} is {{age}} years old.</p>
+<p> {{ name }} is {{age}} years old.</p>-->
 
-<!--Structural Directives
-ngIf else Directive-->
-<div *ngIf="false;else id_selector">
-  This text will be hidden
+
+
+<!--Structural Directives-->
+<!--If Directive-->
+<div *ngIf="true">
+  <h3 style="color: rebeccapurple;">Good Morning! </h3>
+</div>
+
+<!--ngIf else Directive-->
+<!--<div *ngIf="false;else id_selector">
+
   <h1 [ngStyle]="{'color':'Green'}">
     This is Structural Directive
     If Part
   </h1>
 </div>
+
 <ng-template #id_selector>
-  This text will be displayed
   <h1 [ngStyle]="{'color':'Blue'}">
     This is Structural Directive
     Else Part
   </h1>
-</ng-template>
+</ng-template>-->
 
 <!--ngFor Directive-->
 <ul>
@@ -42,9 +45,11 @@ ngIf else Directive-->
 </ul>
 
 <!--ngSwitch Directive-->
-<div [ngSwitch]="'Yousef'">
+<div [ngSwitch]="user">
   <div *ngSwitchCase="'Yousef'">Yousef shift starts at 8 :00 AM</div>
   <div *ngSwitchCase="'Yamen'">Yamen shift starts at 6:00 PM</div>
+  <div *ngSwitchCase="'Yaseer'">Yaser shift starts at 12:00 AM</div>
+
   <div *ngSwitchDefault>The Employee is not found'</div>
 </div>
 

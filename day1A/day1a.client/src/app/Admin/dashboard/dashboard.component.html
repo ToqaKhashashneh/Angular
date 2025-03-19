@@ -1,0 +1,48 @@
+
+
+<!--<nav class="navbar navbar-inverse visible-xs">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Logo</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li> <a class="active" href="#home">Dashboard</a></li>
+        <a routerLink="/Dashboard/ShowCategories">Show Categories</a>
+        <a routerLink="/Dashboard/ShowProducts">Show Products</a>
+        <a routerLink="/Dashboard/AddCategory"> Add Category</a>
+        <a routerLink="/Dashboard/AddProduct"> Add Product</a>
+        
+      </ul>
+    </div>
+  </div>
+</nav>-->
+
+<div class="container-fluid">
+  <div class="row content">
+    <div class="row">
+      <div class=" col-md-4">
+        <div class="col-sm-3 sidenav hidden-xs">
+          <ul class="nav navbar-nav">
+            <li> <a class="active" href="#home">Dashboard</a></li>
+            <li><a routerLink="/Dashboard/ShowCategories">Show Categories</a></li>
+            <li><a routerLink="/Dashboard/ShowProducts">Show Products</a> </li>
+            <li> <a routerLink="/Dashboard/AddCategory"> Add Category</a> </li>
+            <li>  <a routerLink="/Dashboard/AddProduct"> Add Product</a></li>
+          </ul><br>
+        </div>
+      </div>
+      <br>
+      <div class=" col-md-8">
+        <div class="content">
+          <router-outlet></router-outlet>
+        </div>
+        </div>
+      </div>
+    </div>
+</div>

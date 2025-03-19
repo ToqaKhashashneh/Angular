@@ -3,36 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Angular\\day1A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\sign-in\\sign-in.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\sign-in\\sign-in.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\sign-up\\sign-up.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\sign-up\\sign-up.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\sign-in\\sign-in.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\sign-in\\sign-in.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\categories\\categories.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\categories\\categories.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\services\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\services\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\admin\\show-categories\\showcategoriescomponent.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\admin\\show-categories\\showcategoriescomponent.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\sign-up\\sign-up.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\sign-up\\sign-up.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\admin\\show-categories\\show-categories.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\admin\\show-categories\\show-categories.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\admin\\show-products\\showproductscomponent.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\admin\\show-products\\showproductscomponent.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\admin\\show-products\\show-products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\admin\\show-products\\show-products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\admin\\show-products\\show-products.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\admin\\show-products\\show-products.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\admin\\show-products\\show-products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\admin\\show-products\\show-products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\admin\\show-products\\show-products.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\admin\\show-products\\show-products.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\services\\adminservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\services\\adminservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\admin\\show-categories\\show-categories.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\admin\\show-categories\\show-categories.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\admin\\show-categories\\show-categories.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\admin\\show-categories\\show-categories.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\services\\admin.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\services\\admin.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\services\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\services\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|c:\\users\\user\\desktop\\angular\\day1a\\day1a.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3C645DF-877D-4563-A238-B6712C93FDE1}|day1a.client\\day1a.client.esproj|solutionrelative:day1a.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,111 +78,227 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "sign-in.component.ts",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\sign-in\\sign-in.component.ts",
-              "RelativeDocumentMoniker": "day1a.client\\src\\app\\sign-in\\sign-in.component.ts",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\sign-in\\sign-in.component.ts",
-              "RelativeToolTip": "day1a.client\\src\\app\\sign-in\\sign-in.component.ts",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-16T11:09:39.057Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "auth.service.ts",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Services\\auth.service.ts",
-              "RelativeDocumentMoniker": "day1a.client\\src\\app\\Services\\auth.service.ts",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Services\\auth.service.ts",
-              "RelativeToolTip": "day1a.client\\src\\app\\Services\\auth.service.ts",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAkAAABAAAAAAAAAAA==",
+              "Title": "ShowCategoriesComponent.ts",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-categories\\ShowCategoriesComponent.ts",
+              "RelativeDocumentMoniker": "day1a.client\\src\\app\\Admin\\show-categories\\ShowCategoriesComponent.ts",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-categories\\ShowCategoriesComponent.ts",
+              "RelativeToolTip": "day1a.client\\src\\app\\Admin\\show-categories\\ShowCategoriesComponent.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-16T20:06:49.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "url.service.ts",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Services\\url.service.ts",
-              "RelativeDocumentMoniker": "day1a.client\\src\\app\\Services\\url.service.ts",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Services\\url.service.ts",
-              "RelativeToolTip": "day1a.client\\src\\app\\Services\\url.service.ts",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-16T11:19:07.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "sign-up.component.ts",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\sign-up\\sign-up.component.ts",
-              "RelativeDocumentMoniker": "day1a.client\\src\\app\\sign-up\\sign-up.component.ts",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\sign-up\\sign-up.component.ts",
-              "RelativeToolTip": "day1a.client\\src\\app\\sign-up\\sign-up.component.ts",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-15T21:57:07.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "sign-in.component.html",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\sign-in\\sign-in.component.html",
-              "RelativeDocumentMoniker": "day1a.client\\src\\app\\sign-in\\sign-in.component.html",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\sign-in\\sign-in.component.html",
-              "RelativeToolTip": "day1a.client\\src\\app\\sign-in\\sign-in.component.html",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-16T11:32:23.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "app-routing.module.ts",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\app-routing.module.ts",
-              "RelativeDocumentMoniker": "day1a.client\\src\\app\\app-routing.module.ts",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\app-routing.module.ts",
-              "RelativeToolTip": "day1a.client\\src\\app\\app-routing.module.ts",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-16T12:17:10.611Z",
+              "WhenOpened": "2025-03-19T01:58:54.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "categories.component.ts",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\categories\\categories.component.ts",
-              "RelativeDocumentMoniker": "day1a.client\\src\\app\\categories\\categories.component.ts",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\categories\\categories.component.ts",
-              "RelativeToolTip": "day1a.client\\src\\app\\categories\\categories.component.ts",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Title": "show-products.component.ts",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-products\\show-products.component.ts",
+              "RelativeDocumentMoniker": "day1a.client\\src\\app\\Admin\\show-products\\show-products.component.ts",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-products\\show-products.component.ts",
+              "RelativeToolTip": "day1a.client\\src\\app\\Admin\\show-products\\show-products.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-16T20:31:37.969Z",
+              "WhenOpened": "2025-03-19T01:58:35.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowProductsComponent.ts",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-products\\ShowProductsComponent.ts",
+              "RelativeDocumentMoniker": "day1a.client\\src\\app\\Admin\\show-products\\ShowProductsComponent.ts",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-products\\ShowProductsComponent.ts",
+              "RelativeToolTip": "day1a.client\\src\\app\\Admin\\show-products\\ShowProductsComponent.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T01:50:08.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "show-categories.component.ts",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-categories\\show-categories.component.ts",
+              "RelativeDocumentMoniker": "day1a.client\\src\\app\\Admin\\show-categories\\show-categories.component.ts",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-categories\\show-categories.component.ts",
+              "RelativeToolTip": "day1a.client\\src\\app\\Admin\\show-categories\\show-categories.component.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T01:06:41.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "day1a.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "day1a.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T00:42:44.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "show-products.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-products\\show-products.component.spec.ts",
+              "RelativeDocumentMoniker": "day1a.client\\src\\app\\Admin\\show-products\\show-products.component.spec.ts",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-products\\show-products.component.spec.ts",
+              "RelativeToolTip": "day1a.client\\src\\app\\Admin\\show-products\\show-products.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T01:43:52.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "show-products.component.html",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-products\\show-products.component.html",
+              "RelativeDocumentMoniker": "day1a.client\\src\\app\\Admin\\show-products\\show-products.component.html",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-products\\show-products.component.html",
+              "RelativeToolTip": "day1a.client\\src\\app\\Admin\\show-products\\show-products.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-19T01:40:17.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "sign-up.component.html",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\sign-up\\sign-up.component.html",
-              "RelativeDocumentMoniker": "day1a.client\\src\\app\\sign-up\\sign-up.component.html",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\sign-up\\sign-up.component.html",
-              "RelativeToolTip": "day1a.client\\src\\app\\sign-up\\sign-up.component.html",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADYAAAA7AAAAAAAAAA==",
+              "Title": "show-products.component.css",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-products\\show-products.component.css",
+              "RelativeDocumentMoniker": "day1a.client\\src\\app\\Admin\\show-products\\show-products.component.css",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-products\\show-products.component.css",
+              "RelativeToolTip": "day1a.client\\src\\app\\Admin\\show-products\\show-products.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-19T01:43:48.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "show-categories.component.html",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-categories\\show-categories.component.html",
+              "RelativeDocumentMoniker": "day1a.client\\src\\app\\Admin\\show-categories\\show-categories.component.html",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-categories\\show-categories.component.html",
+              "RelativeToolTip": "day1a.client\\src\\app\\Admin\\show-categories\\show-categories.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-15T21:56:08.099Z",
+              "WhenOpened": "2025-03-19T01:14:02.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminService.ts",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Services\\AdminService.ts",
+              "RelativeDocumentMoniker": "day1a.client\\src\\app\\Services\\AdminService.ts",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Services\\AdminService.ts",
+              "RelativeToolTip": "day1a.client\\src\\app\\Services\\AdminService.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T01:04:37.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dashboard.component.html",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\dashboard\\dashboard.component.html",
+              "RelativeDocumentMoniker": "day1a.client\\src\\app\\Admin\\dashboard\\dashboard.component.html",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\dashboard\\dashboard.component.html",
+              "RelativeToolTip": "day1a.client\\src\\app\\Admin\\dashboard\\dashboard.component.html",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-19T00:37:53.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "show-categories.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-categories\\show-categories.component.spec.ts",
+              "RelativeDocumentMoniker": "day1a.client\\src\\app\\Admin\\show-categories\\show-categories.component.spec.ts",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Admin\\show-categories\\show-categories.component.spec.ts",
+              "RelativeToolTip": "day1a.client\\src\\app\\Admin\\show-categories\\show-categories.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T01:11:51.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "url.service.ts",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Services\\url.service.ts",
+              "RelativeDocumentMoniker": "day1a.client\\src\\app\\Services\\url.service.ts",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Services\\url.service.ts",
+              "RelativeToolTip": "day1a.client\\src\\app\\Services\\url.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T01:03:25.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "admin.service.ts",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Services\\admin.service.ts",
+              "RelativeDocumentMoniker": "day1a.client\\src\\app\\Services\\admin.service.ts",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\Services\\admin.service.ts",
+              "RelativeToolTip": "day1a.client\\src\\app\\Services\\admin.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T01:02:01.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "nav-bar.component.html",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "RelativeDocumentMoniker": "day1a.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "RelativeToolTip": "day1a.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-19T00:46:46.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\index.html",
+              "RelativeDocumentMoniker": "day1a.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\index.html",
+              "RelativeToolTip": "day1a.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-19T00:39:52.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "day1a.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\day1A\\day1a.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "day1a.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-17T07:06:10.653Z",
               "EditorCaption": ""
             }
           ]

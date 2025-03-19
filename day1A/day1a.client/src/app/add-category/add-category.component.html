@@ -1,0 +1,20 @@
+<p>add-category works!</p>
+
+<form style="width: 26rem;" #addCategory ="ngForm"   (ngSubmit)="AddNewCategory(addCategory.value)" >
+  <!-- Name input -->
+  <div data-mdb-input-init class="form-outline mb-4">
+    <input type="text" name="name" ngModel id="form4Example1" class="form-control" />
+    <label class="form-label" for="form4Example1">Category Name</label>
+  </div>
+
+  <!-- Email input -->
+  <div data-mdb-input-init class="form-outline mb-4">
+    <input type="text" name="img" ngModel id="form4Example2" class="form-control" />
+    <label class="form-label" for="form4Example2">Category Image</label>
+  </div>
+
+
+
+  <!-- Submit button -->
+  <button data-mdb-ripple-init type="button" class="btn btn-primary btn-block mb-4">Send</button>
+</form>

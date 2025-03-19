@@ -31,4 +31,8 @@ export class URLService {
 
 
 
+  AddCategory(NewCategory: any): Observable<any> {
+    return this.url.post(this.categoriesUrl, NewCategory);
+
+  }
 }
