@@ -1,3 +1,4 @@
+
 <p>show-categories works!</p>
 
 
@@ -12,13 +13,14 @@
     </tr>
   </thead>
   <tbody>
-  
- 
-    <tr *ngFor="let item of Categories">
+
+
+    <tr *ngFor="let item of categories">
       <td>{{item.id}}</td>
       <td>{{item.name}}</td>
       <td>{{item.img}}</td>
-      <td><a routerLink = '/Dashboard/ShowProducts' > Show Products</a></td> 
+      <td><a routerLink='/Dashboard/EditCategory/{{item.id}}'> Edit Category</a></td>
     </tr>
   </tbody>
 </table>
+

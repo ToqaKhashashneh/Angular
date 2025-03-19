@@ -12,11 +12,14 @@ import { CategoriesComponent } from './categories/categories.component';
 import { HomeComponent } from './home/home.component';
 import { ProductdetailsComponent } from './productdetails/productdetails.component';
 import { ProductsComponent } from './products/products.component';
-import { AddCategoryComponent } from './add-category/add-category.component';
 import { DashboardComponent } from './Admin/dashboard/dashboard.component';
-import { ShowCategoriesComponent } from './Admin/show-categories/ShowCategoriesComponent';
-import { ShowProductsComponent } from './Admin/show-products/ShowProductsComponent';
 import { AddProductComponent } from './Admin/add-product/add-product.component';
+import { ShowCategoryComponent } from './Admin/show-category/show-category.component';
+import { ShowProductsComponent } from './Admin/show-products/show-products.component';
+import { AddCategoryComponent } from './Admin/add-category/add-category.component';
+import { EditcategoryComponent } from './Admin/editcategory/editcategory.component';
+import { EditproductComponent } from './Admin/editproduct/editproduct.component';
+
 
 
 
@@ -33,15 +36,17 @@ import { AddProductComponent } from './Admin/add-product/add-product.component';
     HomeComponent,
     ProductsComponent,
     ProductdetailsComponent,
-    AddCategoryComponent,
     DashboardComponent,
-    ShowCategoriesComponent,
+    ShowCategoryComponent,
     ShowProductsComponent,
-    AddProductComponent
+    AddProductComponent,
+    AddCategoryComponent,
+    EditcategoryComponent,
+    EditproductComponent
   ],
   imports: [
     BrowserModule, HttpClientModule,
-    AppRoutingModule, FormsModule
+    AppRoutingModule, FormsModule, 
   ],
   providers: [],
   bootstrap: [AppComponent]

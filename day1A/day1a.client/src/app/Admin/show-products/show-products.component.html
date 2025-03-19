@@ -1,6 +1,5 @@
 <p>show-products works!</p>
 
-<p>show-categories works!</p>
 
 
 <table class="table">
@@ -9,18 +8,20 @@
       <th>Product ID</th>
       <th>Product Name</th>
       <th>Product Img</th>
-     
+      <th>Action</th>
 
     </tr>
   </thead>
   <tbody>
 
 
-    <tr *ngFor="let item of Products">
+    <tr *ngFor="let item of products">
       <td>{{item.id}}</td>
       <td>{{item.name}}</td>
       <td>{{item.img}}</td>
-    
+      <td><a routerLink='/Dashboard/EditProduct/{{item.id}}'> Edit Product</a></td>
+
+
     </tr>
   </tbody>
 </table>

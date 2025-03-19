@@ -1,24 +1,24 @@
-import { Component } from '@angular/core';
-import { URLService } from '../Services/url.service';
+//import { Component } from '@angular/core';
+//import { URLService } from '../Services/url.service';
 
 
-@Component({
-  selector: 'app-add-category',
-  standalone: false,
-  templateUrl: './add-category.component.html',
-  styleUrl: './add-category.component.css'
-})
-export class AddCategoryComponent {
+//@Component({
+//  selector: 'app-add-category',
+//  standalone: false,
+//  templateUrl: './add-category.component.html',
+//  styleUrl: './add-category.component.css'
+//})
+//export class AddCategoryComponent {
 
-  constructor(private _urlservice : URLService) { }
-
-
-  ngOnInit() {
-  }
+//  constructor(private _urlservice : URLService) { }
 
 
-  AddNewCategory(NewCategory: any) {
-    this._urlservice.AddCategory(NewCategory).subscribe();
+//  ngOnInit() {
+//  }
 
-  }
-}
+
+//  AddNewCategory(NewCategory: any) {
+//    this._urlservice.AddCategory(NewCategory).subscribe();
+
+//  }
+//}

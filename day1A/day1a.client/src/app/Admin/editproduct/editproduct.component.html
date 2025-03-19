@@ -1,0 +1,43 @@
+<p>editproduct works!</p>
+<p>editcategory works!</p>
+
+<p>add-category works!</p>
+
+
+<div class="bg container-fluid">
+  <div class="container mt-5">
+    <div class="row justify-content-center">
+      <div class="col-md-6">
+
+        <form class="custom-form shadow" #edit="ngForm" (ngSubmit)="Editproduct(edit.value)">
+
+          <h3 class="text-center text-dark mb-4"> Edit</h3>
+          <div class="mb-3">
+            <label for="name" class="form-label">Product Name</label>
+            <input type="text" class="form-control" name="name" ngModel [(ngModel)]="ProductContent.name" required>
+          </div>
+          <div class="mb-3">
+            <label for="text" class="form-label">Product Image</label>
+            <input type="text" class="form-control" name="img" ngModel [(ngModel)]="ProductContent.img" required>
+          </div>
+          <div class="mb-3">
+            <div class="form-group">
+              <label style="margin-bottom:10px;">Select Category</label>
+              <select name="categoryId" ngModel [(ngModel)]="ProductContent.categoryId" class="form-control" style="width:500px !important;">
+                <option *ngFor="let category of CategoryContent" [value]="category.id">
+                  {{ category.name }}
+                </option>
+              </select>
+            </div>
+            <br />
+          </div>
+
+
+
+
+          <button type="submit" class="btn custom-btn w-100">Edit Category</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

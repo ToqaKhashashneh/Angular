@@ -37,3 +37,4 @@ C:\Users\user\Desktop\Angular\day1A\day1A.Server\obj\Debug\net8.0\refint\day1A.S
 C:\Users\user\Desktop\Angular\day1A\day1A.Server\obj\Debug\net8.0\day1A.Server.pdb
 C:\Users\user\Desktop\Angular\day1A\day1A.Server\obj\Debug\net8.0\day1A.Server.genruntimeconfig.cache
 C:\Users\user\Desktop\Angular\day1A\day1A.Server\obj\Debug\net8.0\ref\day1A.Server.dll
+C:\Users\user\Desktop\Angular\day1A\day1A.Server\obj\Debug\net8.0\day1A.Server.sourcelink.json

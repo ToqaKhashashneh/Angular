@@ -7,9 +7,13 @@ import { ProductsComponent } from './products/products.component';
 import { HomeComponent } from './home/home.component';
 import { ProductdetailsComponent } from './productdetails/productdetails.component';
 import { DashboardComponent } from './Admin/dashboard/dashboard.component';
-import { ShowProductsComponent } from './Admin/show-products/ShowProductsComponent';
 import { AddCategoryComponent } from './Admin/add-category/add-category.component';
 import { AddProductComponent } from './Admin/add-product/add-product.component';
+import { ShowCategoryComponent } from './Admin/show-category/show-category.component';
+import { ShowProductsComponent } from './Admin/show-products/show-products.component';
+import { EditcategoryComponent } from './Admin/editcategory/editcategory.component';
+import { EditproductComponent } from './Admin/editproduct/editproduct.component';
+
 
 
 const routes: Routes = [
@@ -22,10 +26,16 @@ const routes: Routes = [
   { path: "", pathMatch: "full", component: HomeComponent },
   {
     path: 'Dashboard', component: DashboardComponent, children: [
-      { path: 'ShowCategories', component: ShowCategoriesComponent },
-      { path: 'ShowProducts/:id', component: ShowProductsComponent },
       { path: 'AddCategory', component: AddCategoryComponent },
-      { path: 'AddProduct', component: AddProductComponent }
+      { path: 'AddProduct', component: AddProductComponent },
+      { path: 'ShowCategories', component: ShowCategoryComponent },
+      { path: 'ShowProducts', component: ShowProductsComponent },
+      { path: 'EditCategory/:id', component: EditcategoryComponent },
+      { path: 'EditProduct/:id', component: EditproductComponent }
+
+
+
+
     ]}
 
 

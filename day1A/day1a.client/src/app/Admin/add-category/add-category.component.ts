@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { AdminService } from '../../Services/AdminService';
 
 @Component({
   selector: 'app-add-category',
@@ -7,5 +8,19 @@ import { Component } from '@angular/core';
   styleUrl: './add-category.component.css'
 })
 export class AddCategoryComponent {
+
+  constructor(private _admin: AdminService) { }
+
+
+  ngOnInit() { }
+
+  AddCategory(Category: any) {
+    this._admin.AddCategory(Category).subscribe(() => {
+    });
+    alert("Category Added Successfully");
+
+  }
+
+
 
 }
