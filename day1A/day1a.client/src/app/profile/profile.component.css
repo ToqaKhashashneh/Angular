@@ -1,0 +1,115 @@
+body {
+  margin-top: 20px;
+  background: linear-gradient(to right, #f1f4f5, #e8f0f1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin-bottom: 20px;
+  padding-left: 30px;
+  color: #2bb6a3;
+}
+
+h3 > span {
+  border-bottom: 2px solid #2bb6a3;
+  display: inline-block;
+  padding: 0 5px 5px;
+}
+
+/* Profile Image & Card */
+#user-profile .main-box {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  padding: 20px;
+  transition: all 0.3s ease;
+}
+
+#user-profile .profile-img {
+  border-radius: 50%;
+  border: 3px solid #2bb6a3;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin: 0 auto 15px;
+}
+
+.profile-message-btn .btn {
+  background-color: #2bb6a3;
+  color: white;
+  border-radius: 20px;
+  padding: 8px 20px;
+  margin-top: 10px;
+}
+
+  .profile-message-btn .btn:hover {
+    background-color: #28a896;
+  }
+
+/* Header and Edit Button */
+.profile-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+  .profile-header h3 {
+    margin: 0;
+    color: #333;
+  }
+
+.edit-profile {
+  background-color: #2bb6a3;
+  border-radius: 20px;
+  color: white;
+  padding: 6px 15px;
+}
+
+  .edit-profile:hover {
+    background-color: #28a896;
+  }
+
+/* Info Section */
+.profile-user-info {
+  margin-top: 20px;
+}
+
+.profile-user-details {
+  display: flex;
+  margin-bottom: 12px;
+}
+
+.profile-user-details-label {
+  font-weight: 600;
+  width: 100px;
+  color: #555;
+}
+
+.profile-user-details-value p {
+  margin: 0;
+  color: #2bb6a3;
+  font-weight: 500;
+}
+
+/* Responsive Fixes */
+@media only screen and (max-width: 767px) {
+  .profile-user-details {
+    flex-direction: column;
+  }
+
+  .profile-user-details-label {
+    width: auto;
+    margin-bottom: 5px;
+    text-align: left;
+  }
+
+  .profile-user-details-value {
+    margin-left: 0;
+  }
+
+  .edit-profile {
+    margin-top: 15px;
+  }
+}

@@ -1,0 +1,52 @@
+<div class="container bootstrap snippets bootdeys" *ngIf="loggeduser">
+  <div class="row" id="user-profile">
+    <div class="col-lg-3 col-md-4 col-sm-4">
+      <div class="main-box clearfix">
+        <img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="" class="profile-img img-responsive center-block">
+        <div class="profile-message-btn center-block text-center">
+          <a href="#" class="btn btn-primary">
+            <i class="fa fa-picture-o" style="color:white; margin:2px;"></i> <span style="color:white">Change Picture</span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-lg-9 col-md-8 col-sm-8">
+      <div class="main-box clearfix" style=" height: 248px;">
+        <div class="profile-header">
+          <h3><span>User info</span></h3>
+          <a class="btn btn-primary edit-profile" (click)="showEditModal = true">
+            <i class="fa fa-pencil-square fa-lg"></i> Edit profile
+          </a>
+        </div>
+
+        <app-editprofile *ngIf="showEditModal" 
+                          [user]="loggeduser"
+                          (onSave)="updateUser($event)"
+                          (onClose)="closeEditModal()"></app-editprofile>
+
+
+        <div class="row profile-user-info">
+          <div class="col-sm-8">
+            <div class="profile-user-details clearfix">
+              <div class="profile-user-details-label">Name:</div>
+              <div class="profile-user-details-value">
+                <p>{{ loggeduser?.name }}</p>
+              </div>
+            </div>
+
+            <div class="profile-user-details clearfix">
+              <div class="profile-user-details-label">Email:</div>
+              <div class="profile-user-details-value">
+                <p>{{ loggeduser?.email }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+

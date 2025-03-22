@@ -19,6 +19,11 @@ import { ShowProductsComponent } from './Admin/show-products/show-products.compo
 import { AddCategoryComponent } from './Admin/add-category/add-category.component';
 import { EditcategoryComponent } from './Admin/editcategory/editcategory.component';
 import { EditproductComponent } from './Admin/editproduct/editproduct.component';
+import { ParentComponent } from './parent/parent.component';
+import { ChildComponent } from './child/child.component';
+import { ProfileComponent } from './profile/profile.component';
+import { EditprofileComponent } from './editprofile/editprofile.component';
+
 
 
 
@@ -42,7 +47,11 @@ import { EditproductComponent } from './Admin/editproduct/editproduct.component'
     AddProductComponent,
     AddCategoryComponent,
     EditcategoryComponent,
-    EditproductComponent
+    EditproductComponent,
+    ParentComponent,
+    ChildComponent,
+    ProfileComponent,
+    EditprofileComponent
   ],
   imports: [
     BrowserModule, HttpClientModule,

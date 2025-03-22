@@ -1,0 +1,16 @@
+
+<div class="modal-backdrop">
+  <div class="modal-container">
+    <h3>Edit Profile</h3>
+    <label>Name:</label>
+    <input [(ngModel)]="updatedUser.name" class="form-control" />
+
+    <label>Email:</label>
+    <input [(ngModel)]="updatedUser.email" class="form-control" />
+
+    <div class="btn-group">
+      <button class="btn btn-success" (click)="saveChanges()">Save</button>
+      <button class="btn btn-warning" (click)="closeModal()">Cancel</button>
+    </div>
+  </div>
+</div>

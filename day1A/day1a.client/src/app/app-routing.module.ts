@@ -13,6 +13,9 @@ import { ShowCategoryComponent } from './Admin/show-category/show-category.compo
 import { ShowProductsComponent } from './Admin/show-products/show-products.component';
 import { EditcategoryComponent } from './Admin/editcategory/editcategory.component';
 import { EditproductComponent } from './Admin/editproduct/editproduct.component';
+import { ParentComponent } from './parent/parent.component';
+import { ChildComponent } from './child/child.component';
+import { ProfileComponent } from './profile/profile.component';
 
 
 
@@ -32,11 +35,11 @@ const routes: Routes = [
       { path: 'ShowProducts', component: ShowProductsComponent },
       { path: 'EditCategory/:id', component: EditcategoryComponent },
       { path: 'EditProduct/:id', component: EditproductComponent }
-
-
-
-
-    ]}
+    ]
+  },
+  { path: "parent", component: ParentComponent },
+  { path: "child", component: ChildComponent },
+  { path: "profile", component: ProfileComponent }
 
 
 
