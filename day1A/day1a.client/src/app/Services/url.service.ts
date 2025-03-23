@@ -11,7 +11,7 @@ export class URLService {
   constructor(private url: HttpClient) { } //httpclient is built in class used to make http request
   //(http:HttpClient) is dependency injection.( It means we are injecting HttpClient into our service so we can use it.)
 
-  private categoriesUrl = 'https://67cd64b6dd7651e464ee3d63.mockapi.io/categories';
+  private categoriesUrl = 'https://67d5f9cd286fdac89bc0e100.mockapi.io/Categories';
 
   private productsUrl = 'https://67cd64b6dd7651e464ee3d63.mockapi.io/products';
 

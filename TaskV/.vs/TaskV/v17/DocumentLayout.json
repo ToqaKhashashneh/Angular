@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|c:\\users\\user\\desktop\\angular\\taskv\\taskv.client\\src\\app\\admin\\update-voucher\\update-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|solutionrelative:taskv.client\\src\\app\\admin\\update-voucher\\update-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|c:\\users\\user\\desktop\\angular\\taskv\\taskv.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|solutionrelative:taskv.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|c:\\users\\user\\desktop\\angular\\taskv\\taskv.client\\src\\app\\admin\\all-vouchers\\all-vouchers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|solutionrelative:taskv.client\\src\\app\\admin\\all-vouchers\\all-vouchers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|c:\\users\\user\\desktop\\angular\\taskv\\taskv.client\\src\\app\\admin\\update-voucher\\update-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|solutionrelative:taskv.client\\src\\app\\admin\\update-voucher\\update-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|c:\\users\\user\\desktop\\angular\\taskv\\taskv.client\\src\\app\\services\\vouchers-control.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|solutionrelative:taskv.client\\src\\app\\services\\vouchers-control.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|c:\\users\\user\\desktop\\angular\\taskv\\taskv.client\\src\\app\\admin\\create-voucher\\create-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|solutionrelative:taskv.client\\src\\app\\admin\\create-voucher\\create-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|c:\\users\\user\\desktop\\angular\\taskv\\taskv.client\\src\\app\\admin\\create-voucher\\create-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|solutionrelative:taskv.client\\src\\app\\admin\\create-voucher\\create-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|c:\\users\\user\\desktop\\angular\\taskv\\taskv.client\\src\\app\\admin\\dashboard\\dashboard.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|solutionrelative:taskv.client\\src\\app\\admin\\dashboard\\dashboard.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|c:\\users\\user\\desktop\\angular\\taskv\\taskv.client\\src\\app\\admin\\create-voucher\\create-voucher.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|solutionrelative:taskv.client\\src\\app\\admin\\create-voucher\\create-voucher.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|c:\\users\\user\\desktop\\angular\\taskv\\taskv.client\\src\\app\\admin\\sidebar\\sidebar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|solutionrelative:taskv.client\\src\\app\\admin\\sidebar\\sidebar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|c:\\users\\user\\desktop\\angular\\taskv\\taskv.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{16D193FF-69A9-498B-B622-C54490A9DA2A}|taskv.client\\taskv.client.esproj|solutionrelative:taskv.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "update-voucher.component.html",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Admin\\update-voucher\\update-voucher.component.html",
+              "RelativeDocumentMoniker": "taskv.client\\src\\app\\Admin\\update-voucher\\update-voucher.component.html",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Admin\\update-voucher\\update-voucher.component.html",
+              "RelativeToolTip": "taskv.client\\src\\app\\Admin\\update-voucher\\update-voucher.component.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T21:41:32.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "update-voucher.component.ts",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Admin\\update-voucher\\update-voucher.component.ts",
+              "RelativeDocumentMoniker": "taskv.client\\src\\app\\Admin\\update-voucher\\update-voucher.component.ts",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Admin\\update-voucher\\update-voucher.component.ts",
+              "RelativeToolTip": "taskv.client\\src\\app\\Admin\\update-voucher\\update-voucher.component.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T21:05:58.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "taskv.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "taskv.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T21:02:37.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "all-vouchers.component.html",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Admin\\all-vouchers\\all-vouchers.component.html",
+              "RelativeDocumentMoniker": "taskv.client\\src\\app\\Admin\\all-vouchers\\all-vouchers.component.html",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Admin\\all-vouchers\\all-vouchers.component.html",
+              "RelativeToolTip": "taskv.client\\src\\app\\Admin\\all-vouchers\\all-vouchers.component.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T21:00:55.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sidebar.component.css",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Admin\\sidebar\\sidebar.component.css",
+              "RelativeDocumentMoniker": "taskv.client\\src\\app\\Admin\\sidebar\\sidebar.component.css",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Admin\\sidebar\\sidebar.component.css",
+              "RelativeToolTip": "taskv.client\\src\\app\\Admin\\sidebar\\sidebar.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-23T20:45:29.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dashboard.component.css",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Admin\\dashboard\\dashboard.component.css",
+              "RelativeDocumentMoniker": "taskv.client\\src\\app\\Admin\\dashboard\\dashboard.component.css",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Admin\\dashboard\\dashboard.component.css",
+              "RelativeToolTip": "taskv.client\\src\\app\\Admin\\dashboard\\dashboard.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-23T20:44:43.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "taskv.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "taskv.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T20:34:49.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "create-voucher.component.ts",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.ts",
+              "RelativeDocumentMoniker": "taskv.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.ts",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.ts",
+              "RelativeToolTip": "taskv.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T20:29:34.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vouchers-control.service.ts",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Services\\vouchers-control.service.ts",
+              "RelativeDocumentMoniker": "taskv.client\\src\\app\\Services\\vouchers-control.service.ts",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Services\\vouchers-control.service.ts",
+              "RelativeToolTip": "taskv.client\\src\\app\\Services\\vouchers-control.service.ts",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T20:28:15.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "create-voucher.component.html",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.html",
+              "RelativeDocumentMoniker": "taskv.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.html",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.html",
+              "RelativeToolTip": "taskv.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.html",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T20:28:10.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "create-voucher.component.css",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.css",
+              "RelativeDocumentMoniker": "taskv.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.css",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.css",
+              "RelativeToolTip": "taskv.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-23T20:28:06.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

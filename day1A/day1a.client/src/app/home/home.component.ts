@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { AuthService } from '../Services/auth.service';
 
 @Component({
   selector: 'app-home',
@@ -22,7 +23,17 @@ export class HomeComponent {
     { id: 2, name: 'Bob', email: 'bob@example.com' },
     { id: 3, name: 'Charlie', email: 'charlie@example.com' }
   ];
-  user='Yousef'
+  user = 'Yousef'
+
+  constructor(private _auth: AuthService) { }
+
+
+  ngOnInit() {
+    this._auth.name$.subscribe(name => {
+      this.username = name;
+    });
+
+  }
 }
 
 

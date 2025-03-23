@@ -1,8 +1,14 @@
 <p>parent works!</p>
 
-<div style="justify-content:center">
+<!--<div style="justify-content:center">
   <app-child [title]="myTitle"></app-child>
   <br />
   <button (click)="myTitle='title 2'">change title</button>
-</div>
+</div>-->
 
+
+
+<button (click)="DestroyComponent()">Destroy Component</button>
+<button (click)="changeInput()">Change Input</button>
+
+<app-child *ngIf="show" [testInput]="inputValue"></app-child>

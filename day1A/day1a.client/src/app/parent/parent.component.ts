@@ -8,5 +8,18 @@ import { Component } from '@angular/core';
 })
 export class ParentComponent {
 
-  myTitle = "I am the parent component";
+  //myTitle = "I am the parent component";
+
+  show = true;
+  inputValue = 'initial';
+
+  DestroyComponent() {
+    this.show = !this.show;
+  }
+
+  changeInput() {
+    this.inputValue = 'changed ' + Math.random();
+  }
+
+
 }

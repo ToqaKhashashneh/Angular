@@ -1,0 +1,30 @@
+/* Layout container */
+.dashboard-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, sans-serif;
+}
+
+/* Top Navbar */
+.navbar {
+  background-color: #239693;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  border: 7px solid #d1e7dd;
+}
+
+/* Body: Sidebar + Content */
+.dashboard-body {
+  display: flex;
+  flex: 1;
+}
+
+
+/* Main content area */
+.main-content {
+  flex: 1;
+  padding: 2rem;
+  background-color: #ecf0f1;
+}

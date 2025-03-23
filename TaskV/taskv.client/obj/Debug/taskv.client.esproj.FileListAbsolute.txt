@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\MVC Main\MVC\TaskV\taskv.client\obj\Debug\taskv.client.esproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Angular\TaskV\taskv.client\obj\Debug\taskv.client.esproj.CoreCompileInputs.cache

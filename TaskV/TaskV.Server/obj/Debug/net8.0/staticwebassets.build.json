@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "0GGLaqQblCcmjcRubt/4wyQfw4paSR/UVpXpk0PSl1E=",
+  "Source": "TaskV.Server",
+  "BasePath": "_content/TaskV.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\taskv.client.esproj",
+      "Version": 2,
+      "Source": "taskv.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

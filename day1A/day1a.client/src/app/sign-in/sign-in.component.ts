@@ -18,4 +18,5 @@ export class SignInComponent {
   CheckUser(data: any) {
     this._authservice.OnLogin(data);
   }
+
 }

@@ -23,6 +23,7 @@ import { ParentComponent } from './parent/parent.component';
 import { ChildComponent } from './child/child.component';
 import { ProfileComponent } from './profile/profile.component';
 import { EditprofileComponent } from './editprofile/editprofile.component';
+import { InputNameComponent } from './input-name/input-name.component';
 
 
 
@@ -51,7 +52,8 @@ import { EditprofileComponent } from './editprofile/editprofile.component';
     ParentComponent,
     ChildComponent,
     ProfileComponent,
-    EditprofileComponent
+    EditprofileComponent,
+    InputNameComponent
   ],
   imports: [
     BrowserModule, HttpClientModule,
