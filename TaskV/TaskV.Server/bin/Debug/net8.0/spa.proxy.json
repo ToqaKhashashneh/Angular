@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:65405",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\TaskV.Server\\..\\taskv.client",
+"WorkingDirectory": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\TaskV\\TaskV.Server\\..\\taskv.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

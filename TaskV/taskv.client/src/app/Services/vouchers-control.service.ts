@@ -27,4 +27,8 @@ export class VouchersControlService {
     return this._http.get(`${this.VoucherUrl}/${VoucherID}`)
   }
 
+  DeleteVoucher(VoucherID: any) {
+    return this._http.delete(`${this.VoucherUrl}/${VoucherID}`)
+  }
+
 }

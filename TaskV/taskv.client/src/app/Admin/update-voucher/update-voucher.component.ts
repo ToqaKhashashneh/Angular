@@ -16,7 +16,7 @@ export class UpdateVoucherComponent {
   VoucherID: any;
 
   ngOnInit() {
-    debugger;
+    
     this.VoucherID = this._active.snapshot.paramMap.get('id');
     this.vouchser.GetVoucherByID(this.VoucherID).subscribe((data) => { this.VoucherContainer = data });
   }

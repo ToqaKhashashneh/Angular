@@ -6,6 +6,8 @@ import { UpdateVoucherComponent } from './Admin/update-voucher/update-voucher.co
 import { DashboardComponent } from './Admin/dashboard/dashboard.component';
 
 const routes: Routes = [
+  { path: "", redirectTo: "Dashboard", pathMatch: "full" },
+ 
   {
     path: "Dashboard", component: DashboardComponent, children: [
   { path: "allVouchers", component: AllVouchersComponent },

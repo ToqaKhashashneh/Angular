@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "0GGLaqQblCcmjcRubt/4wyQfw4paSR/UVpXpk0PSl1E=",
+  "Hash": "WEzI/5MW9DHol2DKHw75xQXYmzFgq+A5NJ8B365BDu4=",
   "Source": "TaskV.Server",
   "BasePath": "_content/TaskV.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\taskv.client\\taskv.client.esproj",
+      "Identity": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\TaskV\\taskv.client\\taskv.client.esproj",
       "Version": 2,
       "Source": "taskv.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

@@ -484,11 +484,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\TaskV.Server\\TaskV.Server.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\TaskV\\TaskV.Server\\TaskV.Server.csproj",
       "projectName": "TaskV.Server",
-      "projectPath": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\TaskV.Server\\TaskV.Server.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\TaskV\\TaskV.Server\\TaskV.Server.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Angular\\TaskV\\TaskV.Server\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\MVC Main\\MVC\\TaskV\\TaskV.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

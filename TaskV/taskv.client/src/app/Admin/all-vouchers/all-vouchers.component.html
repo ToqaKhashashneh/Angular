@@ -16,7 +16,10 @@
       <td>{{voucher.name}}</td>
       <td>{{voucher.price}}</td>
       <td>{{voucher.quantity}}</td>
-      <td><a routerLink="/Dashboard/editVoucher/{{voucher.id}}">Edit Voucher</a></td>
+      <td>
+        <a class="btn btn-secondary" routerLink="/Dashboard/editVoucher/{{voucher.id}}">Edit Voucher</a>   <br /> <br /> 
+        <button class="btn btn-danger" (click)="DeleteVoucher (voucher.id) ">Delete Voucher</button>
+      </td>
 
     </tr>
 
