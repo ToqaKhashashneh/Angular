@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AngularApp1/.vs/AngularApp1/CopilotIndices/17.12.53.23981
+/AngularApp1/.vs/AngularApp1/FileContentIndex
+/AngularApp1/.vs/AngularApp1/v17
+/AngularApp1/AngularApp1.Server/bin/Debug/net8.0
+/AngularApp1/AngularApp1.Server/obj
